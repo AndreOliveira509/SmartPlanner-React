@@ -1,0 +1,8 @@
+body{
+  background-color: #ccc;
+}
+.tarefas{
+  width: 40vw;
+  height: 10vh;
+  background-color: black;
+}
